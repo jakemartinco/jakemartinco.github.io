@@ -16,10 +16,10 @@ timezone: America/Denver
 
 title: Jake Martin
 
-tagline: Pollster, from Denver, into elections. 
+tagline: Pollster, from Denver. 
 
 description: >- # used by seo meta and the atom feed
-  Pollster, from Denver, into elections. 
+  Pollster, from Denver. 
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
